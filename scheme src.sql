@@ -1,0 +1,1 @@
+create schema if not exists kdz_25_src;
